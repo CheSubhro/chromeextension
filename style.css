@@ -1,0 +1,25 @@
+/* style.css */
+body {
+    font-family: cursive;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.inline {
+    display: inline-flex; 
+    align-items: center; 
+}
+
+.hello {
+    font-size: 24px;
+    color: #007bff;
+}
+
+.smiley {
+    font-size: 24px;
+    color: #007bff;
+    margin-left: 5px;
+}
