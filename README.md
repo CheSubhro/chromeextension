@@ -9,3 +9,5 @@ Our **popup.html** is a simple HTML file that will be displayed when we click on
    
 After completing these steps, our extension should now be active and running for testing in Chrome
 Now that our extension is loaded, let’s open it to see it in action
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
